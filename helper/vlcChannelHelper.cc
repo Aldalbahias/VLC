@@ -2,7 +2,7 @@
  * vlcChannelHelper.cc
  *
  *  Created on: Apr 10, 2016
- *      Author: adel
+ *      Author: Adel
  */
 
 #include "vlcChannelHelper.h"
