@@ -20,9 +20,7 @@ This module can investigate the channel condition under different modulation sch
 
 References
 ==========
-
-Add academic citations here, such as if you published a paper on this
-model, or if readers should read a particular specification or other work.
+Extending ns3 to simulate visible light communication at network-level (http://ieeexplore.ieee.org/document/7500485/)
 
 Usage
 *****
